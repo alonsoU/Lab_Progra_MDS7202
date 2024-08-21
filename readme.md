@@ -1,6 +1,6 @@
-Repositorio con los Notebooks de los Laboratorios
+Repositorio con los notebooks de los Laboratorios
 
-* Integrantes*
+* Integrantes
   - Carolina Núñez
   - Alonso Uribe
 
